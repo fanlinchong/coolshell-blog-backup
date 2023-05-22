@@ -1,0 +1,2962 @@
+[
+    {
+        "url": "https://coolshell.cn/articles/22422.html",
+        "title": "是微服务架构不香还是云不香？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/22398.html",
+        "title": "我看ChatGPT: 为啥谷歌掉了千亿美金"
+    },
+    {
+        "url": "https://coolshell.cn/articles/22367.html",
+        "title": "聊聊 nostr 和 审查"
+    },
+    {
+        "url": "https://coolshell.cn/articles/22341.html",
+        "title": "感染新冠的经历"
+    },
+    {
+        "url": "https://coolshell.cn/articles/22320.html",
+        "title": "eBPF 介绍"
+    },
+    {
+        "url": "https://coolshell.cn/articles/22298.html",
+        "title": "聊聊团队协同和协同工具"
+    },
+    {
+        "url": "https://coolshell.cn/articles/22263.html",
+        "title": "从一次经历谈 TIME_WAIT 的那些事"
+    },
+    {
+        "url": "https://coolshell.cn/articles/22242.html",
+        "title": "ETCD的内存问题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/22173.html",
+        "title": "“一把梭：REST API 全用 POST”"
+    },
+    {
+        "url": "https://coolshell.cn/articles/22157.html",
+        "title": "谈谈公司对员工的监控"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21708.html",
+        "title": "网络数字身份认证术"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21672.html",
+        "title": "我做系统架构的一些原则"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21649.html",
+        "title": "源代码特洛伊木马攻击"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21615.html",
+        "title": "Go编程模式 ： 泛型编程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21589.html",
+        "title": "如何做一个有质量的技术分享"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21263.html",
+        "title": "Go 编程模式：k8s Visitor 模式"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21228.html",
+        "title": "Go编程模式：Pipeline"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21214.html",
+        "title": "Go编程模式：委托和反转控制"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21179.html",
+        "title": "Go 编程模式：Go Generation"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21164.html",
+        "title": "Go编程模式：Map-Reduce"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21146.html",
+        "title": "Go 编程模式：Functional Options"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21140.html",
+        "title": "Go 编程模式：错误处理"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21128.html",
+        "title": "Go编程模式：切片，接口，时间和性能"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21113.html",
+        "title": "百度为什么掉队了"
+    },
+    {
+        "url": "https://coolshell.cn/articles/20977.html",
+        "title": "程序员如何把控自己的职业"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21003.html",
+        "title": "计时攻击 Timing Attacks"
+    },
+    {
+        "url": "https://coolshell.cn/articles/20845.html",
+        "title": "Rust语言的编程范式"
+    },
+    {
+        "url": "https://coolshell.cn/articles/20793.html",
+        "title": "与程序员相关的CPU缓存知识"
+    },
+    {
+        "url": "https://coolshell.cn/articles/20765.html",
+        "title": "MegaEase的远程工作文化"
+    },
+    {
+        "url": "https://coolshell.cn/articles/20533.html",
+        "title": "使用简单的逻辑方法进行独立思考"
+    },
+    {
+        "url": "https://coolshell.cn/articles/20276.html",
+        "title": "别让自己“墙”了自己"
+    },
+    {
+        "url": "https://coolshell.cn/articles/19996.html",
+        "title": "Unix 50 年：Ken Thompson 的密码"
+    },
+    {
+        "url": "https://coolshell.cn/articles/19840.html",
+        "title": "HTTP的前世今生"
+    },
+    {
+        "url": "https://coolshell.cn/articles/19612.html",
+        "title": "50年前的登月程序和程序员有多硬核"
+    },
+    {
+        "url": "https://coolshell.cn/articles/19464.html",
+        "title": "如何超过大多数人"
+    },
+    {
+        "url": "https://coolshell.cn/articles/19395.html",
+        "title": "HTTP API 认证授权术"
+    },
+    {
+        "url": "https://coolshell.cn/articles/19307.html",
+        "title": "StackOverflow 2019 程序员调查"
+    },
+    {
+        "url": "https://coolshell.cn/articles/19271.html",
+        "title": "“努力就会成功”"
+    },
+    {
+        "url": "https://coolshell.cn/articles/19219.html",
+        "title": "打造高效的工作环境 – Shell 篇"
+    },
+    {
+        "url": "https://coolshell.cn/articles/19085.html",
+        "title": "谈谈我的“三观”"
+    },
+    {
+        "url": "https://coolshell.cn/articles/18654.html",
+        "title": "记一次Kubernetes/Docker网络排障"
+    },
+    {
+        "url": "https://coolshell.cn/articles/18360.html",
+        "title": "程序员练级攻略（2018) 与我的专栏"
+    },
+    {
+        "url": "https://coolshell.cn/articles/18246.html",
+        "title": "关于我”极客时间“的专栏"
+    },
+    {
+        "url": "https://coolshell.cn/articles/18190.html",
+        "title": "Go语言、Docker 和新技术"
+    },
+    {
+        "url": "https://coolshell.cn/articles/18140.html",
+        "title": "关于Facebook 的 React 专利许可证"
+    },
+    {
+        "url": "https://coolshell.cn/articles/18094.html",
+        "title": "如何免费的让网站启用HTTPS"
+    },
+    {
+        "url": "https://coolshell.cn/articles/18024.html",
+        "title": "API设计原则 – Qt官网的设计实践总结"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17998.html",
+        "title": "Linux PID 1 和 Systemd"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17972.html",
+        "title": "我看绩效考核"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17929.html",
+        "title": "Go编程模式：修饰器"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17757.html",
+        "title": "如何重构“箭头型”代码"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17737.html",
+        "title": "AWS 的 S3 故障回顾和思考"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17680.html",
+        "title": "从Gitlab误删除数据库想到的"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17634.html",
+        "title": "Chrome开发者工具的小技巧"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17607.html",
+        "title": "从 MongoDB “赎金事件” 看安全问题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17583.html",
+        "title": "技术人员的发展之路"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17524.html",
+        "title": "如何读懂并写出装逼的函数式代码"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17497.html",
+        "title": "什么是工程师文化？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17459.html",
+        "title": "关于高可用的系统"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17446.html",
+        "title": "这多年来我一直在钻研的技术"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17416.html",
+        "title": "缓存更新的套路"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17391.html",
+        "title": "为什么我不在微信公众号上写文章"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17381.html",
+        "title": "性能测试应该怎么做？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17295.html",
+        "title": "让我们来谈谈分工"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17225.html",
+        "title": "Cuckoo Filter：设计与实现"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17200.html",
+        "title": "Docker基础技术：DeviceMapper"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17061.html",
+        "title": "Docker基础技术：AUFS"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17049.html",
+        "title": "Docker基础技术：Linux CGroup"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17010.html",
+        "title": "Docker基础技术：Linux Namespace（上）"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17029.html",
+        "title": "Docker基础技术：Linux Namespace（下）"
+    },
+    {
+        "url": "https://coolshell.cn/articles/17066.html",
+        "title": "关于移动端的钓鱼式攻击"
+    },
+    {
+        "url": "https://coolshell.cn/articles/16910.html",
+        "title": "Linus：为何对象引用计数必须是原子的"
+    },
+    {
+        "url": "https://coolshell.cn/articles/12225.html",
+        "title": "DHH 谈混合移动应用开发"
+    },
+    {
+        "url": "https://coolshell.cn/articles/12206.html",
+        "title": "HTML6 展望"
+    },
+    {
+        "url": "https://coolshell.cn/articles/12136.html",
+        "title": "Google Inbox如何跨平台重用代码？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/12103.html",
+        "title": "vfork 挂掉的一个问题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/12052.html",
+        "title": "Leetcode 编程训练"
+    },
+    {
+        "url": "https://coolshell.cn/articles/12012.html",
+        "title": "State Threads 回调终结者"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11973.html",
+        "title": "bash代码注入的安全漏洞"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11928.html",
+        "title": "互联网之子 – Aaron Swartz"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11847.html",
+        "title": "谜题的答案和活动的心得体会"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11832.html",
+        "title": "【活动】解迷题送礼物"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11656.html",
+        "title": "开发团队的效率"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11609.html",
+        "title": "TCP 的那些事儿（下）"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11564.html",
+        "title": "TCP 的那些事儿（上）"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11629.html",
+        "title": "「我只是认真」聊聊工匠情怀"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11541.html",
+        "title": "面向GC的Java编程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11466.html",
+        "title": "C语言的整型溢出问题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11454.html",
+        "title": "从LongAdder看更高效的无锁实现"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11432.html",
+        "title": "从Code Review 谈如何做技术"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11377.html",
+        "title": "C语言结构体里的成员数组和指针"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11312.html",
+        "title": "无插件Vim编程技巧"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11265.html",
+        "title": "Python修饰器的函数式编程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11235.html",
+        "title": "一个浮点数跨平台产生的问题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11175.html",
+        "title": "Java中的CopyOnWrite容器"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11170.html",
+        "title": "如何用最有创造力的方式输出42"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11112.html",
+        "title": "由苹果的低级Bug想到的"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11094.html",
+        "title": "可视化编程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11021.html",
+        "title": "从“黑掉Github”学Web安全开发"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10975.html",
+        "title": "一个“蝇量级” C 语言协程库"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10910.html",
+        "title": "分布式系统的事务处理"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10822.html",
+        "title": "函数式编程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10804.html",
+        "title": "X-Y Problem"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10739.html",
+        "title": "Lua简明教程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10688.html",
+        "title": "编程能力与编程年龄"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10652.html",
+        "title": "程序的本质复杂性和元语言抽象"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10590.html",
+        "title": "二维码的生成细节和原理"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10427.html",
+        "title": "伙伴分配器的一个极简实现"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10476.html",
+        "title": "C++11的Lambda使用一例：华容道求解"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10478.html",
+        "title": "C++面试中string类的一种正确写法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10449.html",
+        "title": "C++模板”>>”编译问题与词法消歧设计"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10337.html",
+        "title": "数据即代码：元驱动编程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10192.html",
+        "title": "数据的游戏：冰与火"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10249.html",
+        "title": "7个示例科普CPU Cache"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10217.html",
+        "title": "加班与效率"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10169.html",
+        "title": "类型的本质和函数式实现"
+    },
+    {
+        "url": "https://coolshell.cn/articles/10115.html",
+        "title": "C语言全局变量那些事儿"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9886.html",
+        "title": "二叉树迭代器算法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9917.html",
+        "title": "Alan Cox：大教堂、市集与市议会"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9949.html",
+        "title": "IoC/DIP其实是一种管理思想"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9859.html",
+        "title": "Alan Cox：单向链表中prev指针的妙用"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9749.html",
+        "title": "Javascript 装载和执行"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9703.html",
+        "title": "无锁HashMap的原理与实现"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9666.html",
+        "title": "浏览器的渲染原理简介"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9606.html",
+        "title": "疫苗：Java HashMap的死循环"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9543.html",
+        "title": "“C++的数组不支持多态”？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9410.html",
+        "title": "Unix考古记：一个“遗失”的shell"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9508.html",
+        "title": "PFIF网上寻人协议"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9308.html",
+        "title": "“作环保的程序员，从不用百度开始”"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9156.html",
+        "title": "《Rework》摘录及感想"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9229.html",
+        "title": "实例分析Java Class的文件结构"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9169.html",
+        "title": "并发框架Disruptor译文"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9104.html",
+        "title": "sed 简明教程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9070.html",
+        "title": "AWK 简明教程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8990.html",
+        "title": "Linus：利用二级指针删除单向链表"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8961.html",
+        "title": "从面向对象的设计模式看软件设计"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8883.html",
+        "title": "应该知道的Linux技巧"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8790.html",
+        "title": "程序算法与人生选择"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8767.html",
+        "title": "Web工程师的工具箱"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8745.html",
+        "title": "如此理解面向对象编程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8711.html",
+        "title": "程序员疫苗：代码注入"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8619.html",
+        "title": "你可能不知道的Shell"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8593.html",
+        "title": "如何测试洗牌程序"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8489.html",
+        "title": "Go 语言简介（下）— 特性"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8460.html",
+        "title": "Go 语言简介（上）— 语法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8422.html",
+        "title": "TF-IDF模型的概率解释"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8398.html",
+        "title": "xkcd 神图“Click and Drag”"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8387.html",
+        "title": "Bret Victor – Learnable Programming"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8309.html",
+        "title": "C/C++语言中闭包的探究及比较"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8275.html",
+        "title": "对九个超级程序员的采访"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8239.html",
+        "title": "无锁队列的实现"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8209.html",
+        "title": "“单元测试要做多细？”"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8170.html",
+        "title": "一次Ajax查错的经历"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8138.html",
+        "title": "为什么我反对纯算法面试题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8115.html",
+        "title": "GCC 用 C++ 来编译"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8052.html",
+        "title": "K Nearest Neighbor 算法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8088.html",
+        "title": "对技术的态度"
+    },
+    {
+        "url": "https://coolshell.cn/articles/8031.html",
+        "title": "InfoQ的ArchSummit大会对我的采访"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7992.html",
+        "title": "C++的坑真的多吗？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7965.html",
+        "title": "一个fork的面试题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7917.html",
+        "title": "各式各样的验证码"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7886.html",
+        "title": "代码执行的效率"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7829.html",
+        "title": "28个Unix/Linux的命令行神器"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7771.html",
+        "title": "少即是极多"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7804.html",
+        "title": "关于闰秒"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7779.html",
+        "title": "K-Means 算法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7657.html",
+        "title": "持续部署，并不简单！"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7755.html",
+        "title": "Git显示漂亮日志的小技巧"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7490.html",
+        "title": "性能调优攻略"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7617.html",
+        "title": "抄袭，腾讯 和 产品"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7526.html",
+        "title": "Lisp的永恒之道"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7480.html",
+        "title": "Javascript 中的 var"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7459.html",
+        "title": "Huffman 编码压缩算法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7448.html",
+        "title": "扎克伯格的一封信：关于Facebook IPO"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7425.html",
+        "title": "rsync 的核心算法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7270.html",
+        "title": "NoSQL 数据建模技术"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7236.html",
+        "title": "用Unix的设计思想来应对多变的需求"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7186.html",
+        "title": "做个环保主义的程序员"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7166.html",
+        "title": "游戏：VIM大冒险"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7126.html",
+        "title": "这到底是谁之错？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7048.html",
+        "title": "挑战无处不在"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6994.html",
+        "title": "我们需要专职的QA吗？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6976.html",
+        "title": "谈谈数据安全和云存储"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6950.html",
+        "title": "需求变化与IoC"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6913.html",
+        "title": "神奇的CSS形状"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6840.html",
+        "title": "CSS 布局:40个教程、技巧、例子和最佳实践"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6790.html",
+        "title": "多版本并发控制(MVCC)在分布式系统中的应用"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6775.html",
+        "title": "Bret Victor – Inventing on Principle"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6731.html",
+        "title": "理解Javascript的闭包"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6668.html",
+        "title": "再谈javascript面向对象编程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6639.html",
+        "title": "千万别惹程序员"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6548.html",
+        "title": "Why C++ ? 王者归来"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6526.html",
+        "title": "软件开发的“三重门”"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6470.html",
+        "title": "由12306.cn谈谈网站性能技术"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6441.html",
+        "title": "Javascript 面向对象编程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6424.html",
+        "title": "Hash Collision DoS 问题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6335.html",
+        "title": "Resin服务器getResource揭秘"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6346.html",
+        "title": "程序员因为女孩而美丽！"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6312.html",
+        "title": "一个女程序员的故事"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6112.html",
+        "title": "由一个问题到 Resin ClassLoader 的学习"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6193.html",
+        "title": "CSDN明文口令泄露的启示"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6142.html",
+        "title": "三个事和三个问题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6043.html",
+        "title": "Web开发中需要了解的东西"
+    },
+    {
+        "url": "https://coolshell.cn/articles/6010.html",
+        "title": "一些有意思的算法代码"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5987.html",
+        "title": "如何设计“找回用户帐号”功能"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5966.html",
+        "title": "腾讯帐号申诉的用户体验"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5537.html",
+        "title": "一些文章资源和趣闻"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5901.html",
+        "title": "腾讯，竞争力 和 用户体验"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5815.html",
+        "title": "来信， 创业 和 移动互联网"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5826.html",
+        "title": "千万别用MongoDB？真的吗？！"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5701.html",
+        "title": "SteveY对Amazon和Google平台的吐槽"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5761.html",
+        "title": "深入理解C语言"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5709.html",
+        "title": "API设计：用流畅接口构造内部DSL"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5686.html",
+        "title": "多些时间能少写些代码"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5651.html",
+        "title": "Stay Hungry, Stay Foolish ！！"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5531.html",
+        "title": "Test-Driven Development？别逗了"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5625.html",
+        "title": "“品质在于构建过程”吗？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5576.html",
+        "title": "那些曾伴我走过编程之路的软件"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5514.html",
+        "title": "如果你看不见你还能编程吗？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5224.html",
+        "title": "一些文章和各种资源"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5479.html",
+        "title": "给程序员的VIM速查卡"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5444.html",
+        "title": "千万不要把 bool 设计成函数参数"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5426.html",
+        "title": "简明 Vim 练级攻略"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5388.html",
+        "title": "C语言中史上最愚蠢的Bug"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5353.html",
+        "title": "你会做Web上的用户登录功能吗？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5292.html",
+        "title": "弱爆程序员的特征值"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5265.html",
+        "title": "C++11 中值得关注的几大变化（详解）"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5247.html",
+        "title": "国内微博和Twitter的最大不同"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5201.html",
+        "title": "重构代码的7个阶段"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5202.html",
+        "title": "对象的消息模型"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5164.html",
+        "title": "CSS图形"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5160.html",
+        "title": "PHP分页技术的代码和示例"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5143.html",
+        "title": "在新浪微博上关于敏捷的一些讨论"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5132.html",
+        "title": "疯狂的 Web 应用开源项目"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5107.html",
+        "title": "10大经典错误"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5089.html",
+        "title": "10个必需的iOS开发工具和资源"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5075.html",
+        "title": "你确信你了解时间吗？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5035.html",
+        "title": "面向对象的Shell脚本"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5044.html",
+        "title": "为什么Scrum不行？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4990.html",
+        "title": "程序员技术练级攻略"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4976.html",
+        "title": "给程序员新手的一些建议"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4951.html",
+        "title": "软件公司的两种管理方式"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4939.html",
+        "title": "Quora使用到的技术"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4905.html",
+        "title": "语言的数据亲和力"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4914.html",
+        "title": "新浪微博的XSS攻击"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4907.html",
+        "title": "在函数外存取局部变量的一个比喻"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4891.html",
+        "title": "Bob大叔和Jim Coplien对TDD的论战"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4883.html",
+        "title": "排序算法 Sleep Sort"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4875.html",
+        "title": "一个空格引发的惨剧"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4844.html",
+        "title": "“另类” 设计模式"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4826.html",
+        "title": "GNU/Linux下有多少是GNU的？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4811.html",
+        "title": "软件真的好难做啊"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4795.html",
+        "title": "开源中最好的Web开发的资源"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4787.html",
+        "title": "HTTP幂等性概念和应用"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4758.html",
+        "title": "如何写出无法维护的代码"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4722.html",
+        "title": "在Web上运行Linux"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4710.html",
+        "title": "Python 和 PyGame 的一些示例"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4671.html",
+        "title": "可视化的数据结构和算法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4657.html",
+        "title": "狗日的开源软件许可证"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4626.html",
+        "title": "读书笔记：对线程模型的批评"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4605.html",
+        "title": "Amazon的书为什么卖到了$2000万"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4601.html",
+        "title": "关于Amazon云宕机的网贴收集"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4576.html",
+        "title": "Linux 2.6.39-rc3的一个插曲"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4561.html",
+        "title": "对程序员职业的一些建议"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4549.html",
+        "title": "Facebook 的系统架构"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4535.html",
+        "title": "一些软件设计的原则"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4506.html",
+        "title": "再谈“我是怎么招聘程序员的”（上）"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4490.html",
+        "title": "再谈“我是怎么招聘程序员的”（下）"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4458.html",
+        "title": "BT雷人的程序语言（大全）"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4429.html",
+        "title": "面试题：火车运煤问题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4334.html",
+        "title": "Eclipse开发Android应用程序入门:重装上阵"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4270.html",
+        "title": "Eclipse开发Android应用程序入门"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4235.html",
+        "title": "程序员的谎谬之言还是至理名言？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4261.html",
+        "title": "JavaMail使用"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4220.html",
+        "title": "一些有意思的文章和资源"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4170.html",
+        "title": "我有一个Hello World的C++程序编译不过"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4162.html",
+        "title": "又一个有趣的面试题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4131.html",
+        "title": "WSDL 1.1 中文规范"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4119.html",
+        "title": "如何学好C++语言"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4102.html",
+        "title": "如何学好C语言"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4077.html",
+        "title": "纯文本配置还是注册表"
+    },
+    {
+        "url": "https://coolshell.cn/articles/4045.html",
+        "title": "Fix Bug的五个阶段"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3980.html",
+        "title": "程序员那些悲催的事儿"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3961.html",
+        "title": "“火柴棍式”程序员面试题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3933.html",
+        "title": "可视化的排序过程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3928.html",
+        "title": "计算机专业学生的大学生活"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3921.html",
+        "title": "中国仍是IE6的重灾区"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3806.html",
+        "title": "Google图片搜索下的的C String"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3903.html",
+        "title": "一些有意思的贴子和工具"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3877.html",
+        "title": "另类UX让你输入强口令"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3872.html",
+        "title": "微软用新浪来当反面教材"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3820.html",
+        "title": "中国的C2C模式"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3801.html",
+        "title": "破解你的口令"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3790.html",
+        "title": "如何调试makefile变量"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3738.html",
+        "title": "打印质数的各种算法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3723.html",
+        "title": "（麻省理工免费课程）计算机科学和编程导论"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3778.html",
+        "title": "敏捷水管工"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3745.html",
+        "title": "再谈敏捷和ThoughtWorks中国咨询师"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3766.html",
+        "title": "[转]TDD到底美还是不美？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3721.html",
+        "title": "Stack Exchange 的架构"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3716.html",
+        "title": "WordPress是怎么赢的？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3713.html",
+        "title": "你会问问题吗？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3698.html",
+        "title": "提高编程技能最有效的方法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3709.html",
+        "title": "预发布环境,Tag发布机制和可重复的部署过程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3686.html",
+        "title": "欢迎攻击酷壳"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3684.html",
+        "title": "Web开发人员速查卡"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3672.html",
+        "title": "为啥搞电脑的会有这么多空闲时间？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3649.html",
+        "title": "TDD并不是看上去的那么美"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3643.html",
+        "title": "GDB中应该知道的几个调试方法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3630.html",
+        "title": "Error handling in Egypt"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3609.html",
+        "title": "那些炒作过度的技术和概念"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3605.html",
+        "title": "为什么中国的网页设计那么烂？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3595.html",
+        "title": "如何“加密”你的email地址"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3585.html",
+        "title": "SOAP的S是Simple"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3572.html",
+        "title": "C语言函数实现的另类方法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3540.html",
+        "title": "一段Javascript的代码"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3589.html",
+        "title": "食客还是大厨"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3549.html",
+        "title": "Android将允许纯C/C++开发应用"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3561.html",
+        "title": "HTML5 logo 发布"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3512.html",
+        "title": "64位平台C/C++开发注意事项"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3516.html",
+        "title": "JS游戏引擎列表"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3510.html",
+        "title": "Google 需要性爱"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3498.html",
+        "title": "信XML，得自信"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3480.html",
+        "title": "一些有意思的网站和贴子"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3489.html",
+        "title": "Linux的cycle日历（你懂的）"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3463.html",
+        "title": "图解SQL的Join"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3453.html",
+        "title": "Sony PS3 Root Key 被破解"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3445.html",
+        "title": "输出从1到1000的数"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3437.html",
+        "title": "一些杂项资源"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3433.html",
+        "title": "6个有用的MySQL语句"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3429.html",
+        "title": "程序员的圣诞节"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3421.html",
+        "title": "流体力学的演示"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3363.html",
+        "title": "偷了世界的程序员"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3396.html",
+        "title": "Facebook全球关系网"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3385.html",
+        "title": "编程语言流行度"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3356.html",
+        "title": "五个免费开源的数据挖掘软件"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3345.html",
+        "title": "140个Google的面试题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3335.html",
+        "title": "Groovy是怎么实现createArray的"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3331.html",
+        "title": "用Google Translate玩转beat box"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3320.html",
+        "title": "JDK里的设计模式"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3314.html",
+        "title": "几个在线颜色选择器"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3311.html",
+        "title": "几篇技术文章"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3301.html",
+        "title": "Jeff Dean的Stanford演讲"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3288.html",
+        "title": "版本管理器的发展史"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3281.html",
+        "title": "架构师给程序员的一封信"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3277.html",
+        "title": "超强的验证码"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3270.html",
+        "title": "两本电子书"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3267.html",
+        "title": "游戏Flash vs HTML5"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3258.html",
+        "title": "C++的字符串格式化库"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3254.html",
+        "title": "一个人脸识别的Javascript"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3236.html",
+        "title": "给老婆普及计算机知识"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3231.html",
+        "title": "你和你的工作"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3244.html",
+        "title": "在线作图编辑服务"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3218.html",
+        "title": "开发时间估计"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3207.html",
+        "title": "30+ Web下拉菜单"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3192.html",
+        "title": "一些非常不错的资料"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3181.html",
+        "title": "Eclipse和Vim快捷键桌面"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3161.html",
+        "title": "AES加密算法动画演示"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3142.html",
+        "title": "用户界面和用户体验的差别"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3136.html",
+        "title": "chmod -x chmod的N种解法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3156.html",
+        "title": "Go语言的”Issue 9″ Closed!"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3125.html",
+        "title": "主流文本编辑器学习曲线"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3107.html",
+        "title": "Javascript向量图Lib–Raphaël"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3100.html",
+        "title": "编程语言进化"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3097.html",
+        "title": "Windows的达尔文进化图"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3089.html",
+        "title": "Google未公开API：转MAC地址为经纬度"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3083.html",
+        "title": "三个教程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3070.html",
+        "title": "Kick Ass小游戏"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3063.html",
+        "title": "40个很不错的CSS技术"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3036.html",
+        "title": "面向对象是个骗局？！"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3013.html",
+        "title": "一些非常有意思的杂项资源"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3008.html",
+        "title": "Windows编程革命简史"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3005.html",
+        "title": "代码重构的一个示例"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2998.html",
+        "title": "HTML5 小游戏展示"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2990.html",
+        "title": "编程时间分配图"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2987.html",
+        "title": "用脚本实现哄宝宝睡觉(Demo)"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2967.html",
+        "title": "代码优化概要"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2964.html",
+        "title": "25个jQuery的编程小抄"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2941.html",
+        "title": "Waterfall 软件工程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2936.html",
+        "title": "Mozilla的一个BUG"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2926.html",
+        "title": "你准备使用 HTML 5 吗？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2917.html",
+        "title": "Did You Know?"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2913.html",
+        "title": "消费者的消费观"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2909.html",
+        "title": "一些鲜为人知的编程事实"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2853.html",
+        "title": "实用Android开发工具和资源精选"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2822.html",
+        "title": "使用grep恢复被删文件内容"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2834.html",
+        "title": "史上最烂的超级玛丽"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2829.html",
+        "title": "两个教程：Socket和HTML5"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2806.html",
+        "title": "程序员版的凡客"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2801.html",
+        "title": "C技巧：结构体参数转成不定参数"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2785.html",
+        "title": "JS1K 演示"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2792.html",
+        "title": "微软最囧的UI"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2775.html",
+        "title": "免费电子书列表"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2753.html",
+        "title": "最佳编程语录"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2746.html",
+        "title": "五种应该避免的代码注释"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2735.html",
+        "title": "HTML5 和 Flash 之争"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2724.html",
+        "title": "计算机编程简史图"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2719.html",
+        "title": "苹果开发工具Xcode 4 第二预览版"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2704.html",
+        "title": "检查素数的正则表达式"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2681.html",
+        "title": "Kent Beck 谈单元测试和持续部署"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2688.html",
+        "title": "在Javascript里写Python"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2672.html",
+        "title": ".NET代码转换器"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2667.html",
+        "title": "浏览器正则表达式检查插件"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2631.html",
+        "title": "五大基于JVM的脚本语言"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2622.html",
+        "title": "为什么敏捷方法能在软件开发中行之有效？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2606.html",
+        "title": "五个方法成为更好的程序员"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2598.html",
+        "title": "五个编程语言设计的失误"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2608.html",
+        "title": "Google App Inventor"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2589.html",
+        "title": "十个免费的Web压力测试工具"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2583.html",
+        "title": "一些重要的算法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2593.html",
+        "title": "Web版的VNC"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2574.html",
+        "title": "如何在低速率网络中测试 Web 应用"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2554.html",
+        "title": "Eclipse 3.6 （Helios）新特性"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2539.html",
+        "title": "参透软件开发的本质 – Uncle Bob Martin 推荐的经典书籍"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2529.html",
+        "title": "StackOverflow的404错误页"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2524.html",
+        "title": "几个Web的资源"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2514.html",
+        "title": "面试题：布尔变量"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2520.html",
+        "title": "伦敦地铁实时图"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2507.html",
+        "title": "2000年的iMac和2010年的iPhone"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2504.html",
+        "title": "信XML，得永生！"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2497.html",
+        "title": "把Flash转成Javascript/HTML5"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2492.html",
+        "title": "WTF Javascript"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2483.html",
+        "title": "四个流行的Java连接池"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2460.html",
+        "title": "说服他人的5种技巧 – Guy Kawasaki"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2474.html",
+        "title": "（麻省理工免费课程）C语言内存管理和C++面向对象编程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2466.html",
+        "title": "Google吃豆游戏Logo的源码"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2451.html",
+        "title": "Twitter的禁用口令"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2439.html",
+        "title": "黑客的价值观"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2440.html",
+        "title": "碰触，合作和团队绩效"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2428.html",
+        "title": "如何管理并设计你的口令"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2424.html",
+        "title": "十条不错的编程观点"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2420.html",
+        "title": "老手是这样教新手编程的"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2416.html",
+        "title": "HTML 安全列表"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2406.html",
+        "title": "写HTML和CSS的新方法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2402.html",
+        "title": "新手该学哪门编程语言"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2394.html",
+        "title": "九个PHP很有用的功能"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2376.html",
+        "title": "McAfee误杀svchost.exe"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2367.html",
+        "title": "谷歌Chrome取消”http://”"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2365.html",
+        "title": "两个C++的资源"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2363.html",
+        "title": "MSDN中的两个命名"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2357.html",
+        "title": "一个jQuery的插件"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2352.html",
+        "title": "telnet的一个Bug"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2322.html",
+        "title": "Unix传奇(上篇)"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2324.html",
+        "title": "Unix传奇(下篇)"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2313.html",
+        "title": "史上最糟糕的网站"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2305.html",
+        "title": "微软的安全补丁分析"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2296.html",
+        "title": "Google居然在阻止人们自杀？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2287.html",
+        "title": "C++ 程序员自信心曲线图"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2276.html",
+        "title": "又一个Javascript试验田"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2271.html",
+        "title": "Emacs配色在线生成器"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2250.html",
+        "title": "“21天教你学会C++”"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2235.html",
+        "title": "JAVA的字符串拼接与性能"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2191.html",
+        "title": "DEMO Spring 2010 获奖产品"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2155.html",
+        "title": "别只谈系统备份，谈谈怎样恢复系统吧！"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2184.html",
+        "title": "BT工作原理演示"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2179.html",
+        "title": "中国仍然是一个很穷的国家"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2135.html",
+        "title": "Martin Fowler 在 ThoughtWorks 内部关于版本控制工具的调查"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2117.html",
+        "title": "Titanium – 桌面和移动应用开发平台"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2111.html",
+        "title": "erlang打包独立环境"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2109.html",
+        "title": "Python处理encoding的小技巧"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2105.html",
+        "title": "分享：我的Reader订阅"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2097.html",
+        "title": "如何修改微软人体工学键盘的Zoom键"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2091.html",
+        "title": "分享：我是如何使用Google Reader的"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2086.html",
+        "title": "iPad进化图"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2082.html",
+        "title": "Python程序员的进化"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2078.html",
+        "title": "如何防范密码被破解"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2069.html",
+        "title": "一个浏览器市场占有量的图"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2065.html",
+        "title": "一个Windows 3.1的Web网站"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2058.html",
+        "title": "各种流行的编程风格"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2053.html",
+        "title": "最为奇怪的程序语言的特性"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2047.html",
+        "title": "“第六感装置”的惊人潜力"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2043.html",
+        "title": "PI小数点位数的新纪录"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2039.html",
+        "title": "CPU的性价比"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2036.html",
+        "title": "2010 = 1+2-(3-4-5)*6*7*8-9"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1990.html",
+        "title": "程序命名的一些提示"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2015.html",
+        "title": "google的免费dns服务器"
+    },
+    {
+        "url": "https://coolshell.cn/articles/2011.html",
+        "title": "推荐几个镜像站点"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1998.html",
+        "title": "粉丝眼中的操作系统"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1992.html",
+        "title": "程序员眼中的编程语言"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1984.html",
+        "title": "C语言的演变史"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1976.html",
+        "title": "【问题】传球问题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1973.html",
+        "title": "一个“精湛”的JS程序"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1970.html",
+        "title": "Java异常另类手册"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1962.html",
+        "title": "纯CSS做的3D效果"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1957.html",
+        "title": "Web程序的最佳测试数据"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1954.html",
+        "title": "Java读写Excel"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1949.html",
+        "title": "Web中的省略号"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1941.html",
+        "title": "程序员的相关笑话（二）"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1932.html",
+        "title": "哥是玩程序的"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1928.html",
+        "title": "如何使用Python操作摄像头"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1924.html",
+        "title": "Javascript 曲线表作图库"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1907.html",
+        "title": "UI的恶梦"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1903.html",
+        "title": "程序员的相关笑话（一）"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1901.html",
+        "title": "Visual Studio的Vim插件"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1870.html",
+        "title": "我是怎么招聘程序员的"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1889.html",
+        "title": "SQL的Where语句"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1883.html",
+        "title": "Coderun.com 在线开发IDE"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1850.html",
+        "title": "Javascript程序员嘴最脏??"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1863.html",
+        "title": "编程语言时间地理图"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1857.html",
+        "title": "C 语言整型谜题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1846.html",
+        "title": "MySQL性能优化的最佳20+条经验"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1839.html",
+        "title": "编程语言汽车"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1837.html",
+        "title": "Eclipse 和 Vim"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1835.html",
+        "title": "IE6/IE7 0day 漏洞"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1830.html",
+        "title": "正则表达式生成器"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1826.html",
+        "title": "几个有趣的404错误页面"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1824.html",
+        "title": "C语言和sh脚本的杂交代码"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1817.html",
+        "title": "9个最常见IE的Bug及其fix"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1808.html",
+        "title": "在上班的时候浏览不相干网页"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1794.html",
+        "title": "超强：Unix道德经(英文版)"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1788.html",
+        "title": "程序语言性能比拼"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1781.html",
+        "title": "Go语言更名Issue 9？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1761.html",
+        "title": "Go语言源码的一个改动"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1751.html",
+        "title": "Go 语言：Google 的新编程语言"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1724.html",
+        "title": "恐怖的C++语言"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1714.html",
+        "title": "Firefox插件WebMail Notifier"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1719.html",
+        "title": "橡皮鸭程序调试法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1695.html",
+        "title": "别的程序员是怎么读你的简历的"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1693.html",
+        "title": "给我一个序列号"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1684.html",
+        "title": "把ASCII图转成图片"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1679.html",
+        "title": "Vim的分屏功能"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1660.html",
+        "title": "13个不错的Javascript和CSS的菜单"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1651.html",
+        "title": "VIM有趣的命令"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1654.html",
+        "title": "Richard Feynman, 挑战者号, 软件工程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1644.html",
+        "title": "装完Ubuntu 9.10后要干的事"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1640.html",
+        "title": "文件备份的几个简单命令"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1626.html",
+        "title": "ldd 的一个安全问题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1619.html",
+        "title": "Windows 7 的新粉丝 Linus Torvalds"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1611.html",
+        "title": "Ajax开发利器UIzard"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1608.html",
+        "title": "Javascript的两本书"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1592.html",
+        "title": "[推荐]基于Mac的Port工具Fink"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1582.html",
+        "title": "Bug 和 Icon 搜索引擎"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1579.html",
+        "title": "一张关于操作系统的图"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1574.html",
+        "title": "bash 函数级重定向"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1566.html",
+        "title": "程序员小抄大全"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1561.html",
+        "title": "Google Maps API用法教程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1547.html",
+        "title": "使用Flex Bison 和LLVM编写自己的编译器"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1539.html",
+        "title": "用脚本实现哄小孩睡觉"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1532.html",
+        "title": "到处都是Unix的胎记"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1528.html",
+        "title": "图片搜索引擎优化Checklist"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1525.html",
+        "title": "GDB 7.0 发布"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1516.html",
+        "title": "mochiweb参数化模型Req相关功能"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1502.html",
+        "title": "高科技：GDB回溯调试"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1499.html",
+        "title": "算法和数据结构词典"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1484.html",
+        "title": "TCP网络关闭的状态变换时序图"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1480.html",
+        "title": "非常简单的Python HTTP服务"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1462.html",
+        "title": "CentOS上php的问题及Selinux安全设置"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1457.html",
+        "title": "微软在从Google赢取搜索引擎市场份额"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1443.html",
+        "title": "C++的std::string的“读时也拷贝”技术！"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1441.html",
+        "title": "WebTTY！太酷了！"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1439.html",
+        "title": "Alice梦游UNIX仙境"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1432.html",
+        "title": "编译vim解决中文支持"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1426.html",
+        "title": "Oracle的战书！"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1399.html",
+        "title": "8个实用而有趣Bash命令提示行"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1391.html",
+        "title": "编程真难啊"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1387.html",
+        "title": "十个Web开发文章和教程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1379.html",
+        "title": "如何调试bash脚本"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1375.html",
+        "title": "初学C#编程的注意事项"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1360.html",
+        "title": "谁写了Linux"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1351.html",
+        "title": "Unix Pipes 管道原稿"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1331.html",
+        "title": "Unicode字符预览表"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1313.html",
+        "title": "Erlang和Python互通"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1310.html",
+        "title": "在线代码编译服务Codepad.org"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1302.html",
+        "title": "Code Review中的几个提示"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1295.html",
+        "title": "科技公司十大最愚蠢的错误"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1278.html",
+        "title": "Linus Torvalds 语录 Top 10"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1283.html",
+        "title": "Linux基金会的广告"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1272.html",
+        "title": "操作系统航空公司"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1265.html",
+        "title": "恢复Ext3下被删除的文件"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1256.html",
+        "title": "你用Linux命令行吗？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1252.html",
+        "title": "G1新型垃圾回收器一瞥"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1245.html",
+        "title": "IE的CSS相关的BUG"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1242.html",
+        "title": "23,148,855,308,184,500"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1234.html",
+        "title": "几个有趣的漫画"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1231.html",
+        "title": "Javascripts加密库"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1218.html",
+        "title": "简单实用的Code Review工具"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1212.html",
+        "title": "编程引言补充"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1202.html",
+        "title": "面试题：赛马问题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1204.html",
+        "title": "Python也Spring了"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1197.html",
+        "title": "GPLv3的在开源社区中的占有量"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1194.html",
+        "title": "JRuby核心成员投奔Engine Yard"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1192.html",
+        "title": "一些单元测试的Guideline"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1186.html",
+        "title": "如何检测浏览器是否支持CSS3"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1183.html",
+        "title": "15个Web在线WYSIWYG编辑器"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1178.html",
+        "title": "Internet 技术演变图"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1174.html",
+        "title": "程序员惯用的解释(Top 25)"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1145.html",
+        "title": "程序员犯的非技术错误(Top 5)"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1163.html",
+        "title": "（免费在线）新书推荐：搜索的用户界面"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1157.html",
+        "title": "Python 自然语言处理"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1152.html",
+        "title": "关于 Chrome OS 的一些推论"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1142.html",
+        "title": "BT雷人的程序语言"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1095.html",
+        "title": "整洁代码的4个提示"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1113.html",
+        "title": "与Martin Fowler关于敏捷方法的问答"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1106.html",
+        "title": "Java构造时成员初始化的陷阱"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1103.html",
+        "title": "漫画：程序员的一生"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1097.html",
+        "title": "Ksplice Uptrack — Ubuntu更新不用重启"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1092.html",
+        "title": "Top 200的全球开发者BLOG"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1086.html",
+        "title": "22个开源的PHP框架"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1081.html",
+        "title": "十个让你变成糟糕的程序员的行为"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1042.html",
+        "title": "Linux/Unix 新手和专家教程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1051.html",
+        "title": "如何在Java中避免equals方法的隐藏陷阱"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1044.html",
+        "title": "高级Unix命令"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1038.html",
+        "title": "编程命名中的7+1个提示"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1035.html",
+        "title": "16个简单实用的.htaccess小贴示"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1032.html",
+        "title": "Unix 40年：Unix年鉴"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1023.html",
+        "title": "Unix 40年：昨天，今天和明天"
+    },
+    {
+        "url": "https://coolshell.cn/articles/1007.html",
+        "title": "优质代码的十诫"
+    },
+    {
+        "url": "https://coolshell.cn/articles/990.html",
+        "title": "编程中的命名设计那点事"
+    },
+    {
+        "url": "https://coolshell.cn/articles/973.html",
+        "title": "编程语言的评测"
+    },
+    {
+        "url": "https://coolshell.cn/articles/971.html",
+        "title": "质量管理经中的八个法则"
+    },
+    {
+        "url": "https://coolshell.cn/articles/962.html",
+        "title": "【原创】SQL栏目树的代码"
+    },
+    {
+        "url": "https://coolshell.cn/articles/968.html",
+        "title": "18个Web开发的IDE"
+    },
+    {
+        "url": "https://coolshell.cn/articles/956.html",
+        "title": "《Vim Recipes》免费的Vim Cookbook"
+    },
+    {
+        "url": "https://coolshell.cn/articles/945.html",
+        "title": "C语言的谜题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/936.html",
+        "title": "最完美的Linux桌面软件"
+    },
+    {
+        "url": "https://coolshell.cn/articles/933.html",
+        "title": "如何加密/混乱C源代码"
+    },
+    {
+        "url": "https://coolshell.cn/articles/925.html",
+        "title": "如何比较两个数据表"
+    },
+    {
+        "url": "https://coolshell.cn/articles/918.html",
+        "title": "20个优秀的Javascript导航技术"
+    },
+    {
+        "url": "https://coolshell.cn/articles/914.html",
+        "title": "6个变态的C语言Hello World程序"
+    },
+    {
+        "url": "https://coolshell.cn/articles/909.html",
+        "title": "7个免费强大的Ajax文件管理器"
+    },
+    {
+        "url": "https://coolshell.cn/articles/894.html",
+        "title": "将vim变得简单:如何在vim中得到你最喜爱的IDE特性"
+    },
+    {
+        "url": "https://coolshell.cn/articles/889.html",
+        "title": "20非常有用的Java程序片段"
+    },
+    {
+        "url": "https://coolshell.cn/articles/880.html",
+        "title": "几个有意思的漫画"
+    },
+    {
+        "url": "https://coolshell.cn/articles/878.html",
+        "title": "一个C的序列化库tpl"
+    },
+    {
+        "url": "https://coolshell.cn/articles/873.html",
+        "title": "谁说C语言很简单？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/870.html",
+        "title": "Web设计的速查卡"
+    },
+    {
+        "url": "https://coolshell.cn/articles/830.html",
+        "title": "语言的歧义"
+    },
+    {
+        "url": "https://coolshell.cn/articles/822.html",
+        "title": "Linux磁盘使用命令du的改进"
+    },
+    {
+        "url": "https://coolshell.cn/articles/808.html",
+        "title": "22条经典的编程引言"
+    },
+    {
+        "url": "https://coolshell.cn/articles/804.html",
+        "title": "关于C++构造函数的FAQ"
+    },
+    {
+        "url": "https://coolshell.cn/articles/799.html",
+        "title": "电子书：编译器设计基础"
+    },
+    {
+        "url": "https://coolshell.cn/articles/796.html",
+        "title": "5个不错的3D素材网站"
+    },
+    {
+        "url": "https://coolshell.cn/articles/790.html",
+        "title": "十个你可能不曾用过的Linux命令"
+    },
+    {
+        "url": "https://coolshell.cn/articles/786.html",
+        "title": "用TCC可以干些什么？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/783.html",
+        "title": "十大最失水准的科技预测"
+    },
+    {
+        "url": "https://coolshell.cn/articles/780.html",
+        "title": "如何知道某网站运行在GAE上"
+    },
+    {
+        "url": "https://coolshell.cn/articles/776.html",
+        "title": "一个在线的画UML图的网站"
+    },
+    {
+        "url": "https://coolshell.cn/articles/766.html",
+        "title": "让Ruby增加30%的性能改进"
+    },
+    {
+        "url": "https://coolshell.cn/articles/757.html",
+        "title": "如何检查网页浏览器的兼容性"
+    },
+    {
+        "url": "https://coolshell.cn/articles/753.html",
+        "title": "不要拯救那些职场上的“无可救药”"
+    },
+    {
+        "url": "https://coolshell.cn/articles/737.html",
+        "title": "某Python实现的尾部递归"
+    },
+    {
+        "url": "https://coolshell.cn/articles/732.html",
+        "title": "Glassfish ESB 的教程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/706.html",
+        "title": "编程语言流行度排名"
+    },
+    {
+        "url": "https://coolshell.cn/articles/701.html",
+        "title": "25个Linux相关的网站"
+    },
+    {
+        "url": "https://coolshell.cn/articles/694.html",
+        "title": "Guido认为程序员大多数工作不需要递归"
+    },
+    {
+        "url": "https://coolshell.cn/articles/688.html",
+        "title": "你能做对下面这些JavaScript的题吗？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/677.html",
+        "title": "用Python写NCurses UI"
+    },
+    {
+        "url": "https://coolshell.cn/articles/671.html",
+        "title": "Python调用C语言函数"
+    },
+    {
+        "url": "https://coolshell.cn/articles/664.html",
+        "title": "使用PHP的cURL库"
+    },
+    {
+        "url": "https://coolshell.cn/articles/656.html",
+        "title": "Linux 的僵尸(zombie)进程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/652.html",
+        "title": "MySQL: InnoDB 还是 MyISAM?"
+    },
+    {
+        "url": "https://coolshell.cn/articles/648.html",
+        "title": "22个不错的CSS技术"
+    },
+    {
+        "url": "https://coolshell.cn/articles/611.html",
+        "title": "Java如何取源文件中文件名和行号"
+    },
+    {
+        "url": "https://coolshell.cn/articles/604.html",
+        "title": "早期XML Schema中的open content模型"
+    },
+    {
+        "url": "https://coolshell.cn/articles/599.html",
+        "title": "Google 三维 JavaScript API 发布"
+    },
+    {
+        "url": "https://coolshell.cn/articles/595.html",
+        "title": "Oracle成功收购Sun"
+    },
+    {
+        "url": "https://coolshell.cn/articles/591.html",
+        "title": "免费电子书：Ruby Complete"
+    },
+    {
+        "url": "https://coolshell.cn/articles/585.html",
+        "title": "5个不错的Flash的英文教程网"
+    },
+    {
+        "url": "https://coolshell.cn/articles/582.html",
+        "title": "使用Google API做统计图"
+    },
+    {
+        "url": "https://coolshell.cn/articles/566.html",
+        "title": "Linux设备驱动Hello World程序介绍"
+    },
+    {
+        "url": "https://coolshell.cn/articles/562.html",
+        "title": "30种时尚的CSS网站导航条"
+    },
+    {
+        "url": "https://coolshell.cn/articles/559.html",
+        "title": "菜鸟学PHP之Smarty入门"
+    },
+    {
+        "url": "https://coolshell.cn/articles/556.html",
+        "title": "VI的一些小技巧"
+    },
+    {
+        "url": "https://coolshell.cn/articles/551.html",
+        "title": "C语言下的错误处理的问题"
+    },
+    {
+        "url": "https://coolshell.cn/articles/546.html",
+        "title": "有效编程的14件事"
+    },
+    {
+        "url": "https://coolshell.cn/articles/536.html",
+        "title": "一个显示排序过程的Python脚本"
+    },
+    {
+        "url": "https://coolshell.cn/articles/531.html",
+        "title": "如何在Google App Engine上运行PHP"
+    },
+    {
+        "url": "https://coolshell.cn/articles/528.html",
+        "title": "NUI一个跨平台的C++库"
+    },
+    {
+        "url": "https://coolshell.cn/articles/514.html",
+        "title": "深入浅出CORBA"
+    },
+    {
+        "url": "https://coolshell.cn/articles/511.html",
+        "title": "未来五年程序员需要掌握的10项技能"
+    },
+    {
+        "url": "https://coolshell.cn/articles/506.html",
+        "title": "Windows下和程序员相关小工具"
+    },
+    {
+        "url": "https://coolshell.cn/articles/501.html",
+        "title": "Ubuntu的并行启动"
+    },
+    {
+        "url": "https://coolshell.cn/articles/461.html",
+        "title": "Python处理中文的时候的一些小技巧"
+    },
+    {
+        "url": "https://coolshell.cn/articles/444.html",
+        "title": "Python脚本如何对文件通配符匹配"
+    },
+    {
+        "url": "https://coolshell.cn/articles/455.html",
+        "title": "9个强大免费的PHP库"
+    },
+    {
+        "url": "https://coolshell.cn/articles/435.html",
+        "title": "Python中实现多属性排序"
+    },
+    {
+        "url": "https://coolshell.cn/articles/428.html",
+        "title": "程序员需要具备的基本技能"
+    },
+    {
+        "url": "https://coolshell.cn/articles/424.html",
+        "title": "PDF电子书搜索引擎"
+    },
+    {
+        "url": "https://coolshell.cn/articles/410.html",
+        "title": "1980年和2009年的1GB电脑内存的比较"
+    },
+    {
+        "url": "https://coolshell.cn/articles/404.html",
+        "title": "4月14日，微软补丁日"
+    },
+    {
+        "url": "https://coolshell.cn/articles/399.html",
+        "title": "一个排序算法比较的网站"
+    },
+    {
+        "url": "https://coolshell.cn/articles/394.html",
+        "title": "十大史上最恶心的操作系统"
+    },
+    {
+        "url": "https://coolshell.cn/articles/378.html",
+        "title": "笔记本电脑的发展史"
+    },
+    {
+        "url": "https://coolshell.cn/articles/373.html",
+        "title": "RFC1 40岁生日"
+    },
+    {
+        "url": "https://coolshell.cn/articles/363.html",
+        "title": "35个强大的UI设计教程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/360.html",
+        "title": "Linux C 编程一站式学习"
+    },
+    {
+        "url": "https://coolshell.cn/articles/355.html",
+        "title": "20本最好的Linux免费书籍"
+    },
+    {
+        "url": "https://coolshell.cn/articles/343.html",
+        "title": "程序员的八个级别"
+    },
+    {
+        "url": "https://coolshell.cn/articles/340.html",
+        "title": "惹恼程序员的十件事"
+    },
+    {
+        "url": "https://coolshell.cn/articles/336.html",
+        "title": "超过100本的linux免费书籍"
+    },
+    {
+        "url": "https://coolshell.cn/articles/325.html",
+        "title": "2009年脚本语言排名"
+    },
+    {
+        "url": "https://coolshell.cn/articles/313.html",
+        "title": "Linux的“宕机”图片"
+    },
+    {
+        "url": "https://coolshell.cn/articles/309.html",
+        "title": "十个最好的PDF生成库"
+    },
+    {
+        "url": "https://coolshell.cn/articles/294.html",
+        "title": "OSGi和Java企业级运算的未来方向"
+    },
+    {
+        "url": "https://coolshell.cn/articles/290.html",
+        "title": "雷人的程序注释"
+    },
+    {
+        "url": "https://coolshell.cn/articles/265.html",
+        "title": "深入浅出单实例Singleton设计模式"
+    },
+    {
+        "url": "https://coolshell.cn/articles/247.html",
+        "title": "基于JVM的语言正在开始流行"
+    },
+    {
+        "url": "https://coolshell.cn/articles/244.html",
+        "title": "全球IP地址数据库"
+    },
+    {
+        "url": "https://coolshell.cn/articles/240.html",
+        "title": "非常不错的编程技术教程"
+    },
+    {
+        "url": "https://coolshell.cn/articles/209.html",
+        "title": "C++和JAVA传统中积极的一面"
+    },
+    {
+        "url": "https://coolshell.cn/articles/222.html",
+        "title": "优秀程序员的十个习惯"
+    },
+    {
+        "url": "https://coolshell.cn/articles/208.html",
+        "title": "一位离开Google的设计师离职感言的读后感"
+    },
+    {
+        "url": "https://coolshell.cn/articles/203.html",
+        "title": "IBM收购Sun，这是一种什么样的精神？"
+    },
+    {
+        "url": "https://coolshell.cn/articles/200.html",
+        "title": "20 你应该知道的PHP库"
+    },
+    {
+        "url": "https://coolshell.cn/articles/194.html",
+        "title": "Linux 相关的资源站makelinux.net"
+    },
+    {
+        "url": "https://coolshell.cn/articles/189.html",
+        "title": "Linux的15岁生日"
+    },
+    {
+        "url": "https://coolshell.cn/articles/182.html",
+        "title": "OMG, Jave的JMenu居然有433个方法"
+    },
+    {
+        "url": "https://coolshell.cn/articles/179.html",
+        "title": "OMG, Windows 7 来自未来"
+    },
+    {
+        "url": "https://coolshell.cn/articles/172.html",
+        "title": "幽默：程序员的进化"
+    },
+    {
+        "url": "https://coolshell.cn/articles/169.html",
+        "title": "Hello World 集中营"
+    },
+    {
+        "url": "https://coolshell.cn/articles/154.html",
+        "title": "10个基于Ajax的PHP Webmail客户端"
+    },
+    {
+        "url": "https://coolshell.cn/articles/150.html",
+        "title": "Vim命令速查卡"
+    },
+    {
+        "url": "https://coolshell.cn/articles/105.html",
+        "title": "操作系统图形界面发展史(1981-2009)"
+    },
+    {
+        "url": "https://coolshell.cn/articles/93.html",
+        "title": "版本控制Subversion相关资源"
+    },
+    {
+        "url": "https://coolshell.cn/articles/91.html",
+        "title": "十个开源的Javascript框架"
+    },
+    {
+        "url": "https://coolshell.cn/articles/85.html",
+        "title": "Linux Distribution Timeline"
+    },
+    {
+        "url": "https://coolshell.cn/articles/76.html",
+        "title": "怎样做一个 Program Manager"
+    },
+    {
+        "url": "https://coolshell.cn/articles/67.html",
+        "title": "几个你可能从来没有用过的HTML标识"
+    },
+    {
+        "url": "https://coolshell.cn/articles/64.html",
+        "title": "Linux 命令速查"
+    },
+    {
+        "url": "https://coolshell.cn/articles/57.html",
+        "title": "80个优秀的AJAX方案"
+    },
+    {
+        "url": "https://coolshell.cn/articles/37.html",
+        "title": "【引文】如何用Python往Google Spreadsheet上写数据"
+    },
+    {
+        "url": "https://coolshell.cn/articles/35.html",
+        "title": "资源推荐: Google Code University"
+    },
+    {
+        "url": "https://coolshell.cn/articles/33.html",
+        "title": "读后感：房间里的大象：Google文化成为主导"
+    },
+    {
+        "url": "https://coolshell.cn/articles/29.html",
+        "title": "读后感：真正编程的力量"
+    },
+    {
+        "url": "https://coolshell.cn/articles/27.html",
+        "title": "如何自己写一个网络爬虫"
+    },
+    {
+        "url": "https://coolshell.cn/articles/25.html",
+        "title": "如何上网觅无踪"
+    },
+    {
+        "url": "https://coolshell.cn/articles/23.html",
+        "title": "Fork 系统炸弹"
+    },
+    {
+        "url": "https://coolshell.cn/articles/21.html",
+        "title": "101个设计模式"
+    },
+    {
+        "url": "https://coolshell.cn/articles/19.html",
+        "title": "时间1234567890"
+    },
+    {
+        "url": "https://coolshell.cn/articles/16.html",
+        "title": "结对编程的利与弊"
+    },
+    {
+        "url": "https://coolshell.cn/articles/14.html",
+        "title": "Java书籍Top 10"
+    },
+    {
+        "url": "https://coolshell.cn/articles/11.html",
+        "title": "PHP v5.3的新鲜玩意"
+    },
+    {
+        "url": "https://coolshell.cn/articles/9.html",
+        "title": "你应该知道的20个Ajax技术(11-20)"
+    },
+    {
+        "url": "https://coolshell.cn/articles/7.html",
+        "title": "你应该知道的20个Ajax技术(01-10)"
+    },
+    {
+        "url": "https://coolshell.cn/articles/5.html",
+        "title": "Java EE6 初探"
+    },
+    {
+        "url": "https://coolshell.cn/articles/3.html",
+        "title": "50套Web开发图标"
+    },
+    {
+        "url": "https://coolshell.cn/articles/12176.html",
+        "title": "C++ 对象的内存布局"
+    },
+    {
+        "url": "https://coolshell.cn/articles/12165.html",
+        "title": "C++ 虚函数表解析"
+    },
+    {
+        "url": "https://coolshell.cn/articles/12192.html",
+        "title": "C/C++返回内部静态成员的陷阱"
+    },
+    {
+        "url": "https://coolshell.cn/articles/12199.html",
+        "title": "C++ STL string的Copy-On-Write技术"
+    }
+]
